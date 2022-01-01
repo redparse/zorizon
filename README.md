@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zorizon
 - 👀 I’m interested in Offensive Security, Pentesting, Machine Learning and mostly Reverse Engineering Malwares!
-- 🌱 I’m currently learning Advanced C/C++ malware programming and functioning :)
+- 🌱 I’m currently learning Advanced C/C++ malware engineering and security bypassing :)
 - 💞️ I’m looking to collaborate on projects featuring stuff i am interested in.
