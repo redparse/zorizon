@@ -1,5 +1,5 @@
 - :godmode: Hi, I’m @zorizon
-- :suspect: I’m interested in Offensive Security, Pentesting, Machine Learning and mostly Reverse Engineering Malwares!
+- :suspect: I’m interested in Offensive Security, Pentesting and mostly Reverse Engineering Malwares!
 - :goberserk: I’m currently learning Advanced C/C++ malware engineering and security bypassing :)
 - :feelsgood: Striving on completing all kinds of certifications after the army's Cyber Defense unit!
 - :finnadie: Feel free asking me questions regarding Cyber Defense/Offense, ill be happy to help!
